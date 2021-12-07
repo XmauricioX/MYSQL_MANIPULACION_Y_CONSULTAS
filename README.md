@@ -3,11 +3,7 @@
 
 <a href="https://github.com/XmauricioX/MYSQL_MANIPULACION_Y_CONSULTAS/blob/main/DESAFIO/M06C02%20-%20Ejercitaci%C3%B3n%20-%20Manipulaci%C3%B3n%20y%20consulta%20de%20datos.pdf">IR AL PDF<a>
 
-  ## pasos:
-  #PASO 2
-  #PASO 3
-  #PASO 4
-  
+   
 ## Preview y Consultas del desafio finalizado
 # PASO 1
 ### insert    into    genres(name,ranking,active)    values ('investigacion',13,1)
