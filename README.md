@@ -27,13 +27,13 @@
 ## PASO 2
 
 ### select first_name, last_name, rating    from actors    where rating > 7.5
-[!] se mostro el rating para demostrar que es correcta la instruccion   
+[ ! ] se mostro el rating para demostrar que es correcta la instruccion   
 
 <img src="https://github.com/XmauricioX/MYSQL_MANIPULACION_Y_CONSULTAS/blob/main/images/2.1.PNG">
   
   
 ### select title, rating, awards, rating    from movies    where rating > 7.5
-[!] se mostro el rating para demostrar que es correcta la instruccion
+[ ! ] se mostro el rating para demostrar que es correcta la instruccion
   
 <img src="https://github.com/XmauricioX/MYSQL_MANIPULACION_Y_CONSULTAS/blob/main/images/2.2.PNG">
   
